@@ -1,0 +1,22 @@
+.early{
+    background-color: white;
+    
+    h1{
+        padding-left: 100px;
+    }
+    
+    h2{
+        font-family:'Times New Roman', Times, serif;
+        font-size: xx-large;
+        
+    }
+}
+
+.fade-in {
+    transition: opacity 0.5s ease;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
